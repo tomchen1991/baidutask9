@@ -1,0 +1,17 @@
+.treeNode {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  margin: 1px;
+  padding: 5px;
+  background-color: white;
+}
+
+#root {
+  height: auto;
+  width: 500px;
+}
